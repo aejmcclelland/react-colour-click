@@ -10,7 +10,6 @@ A simple React application demonstrating the use of `useState` to change the col
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
